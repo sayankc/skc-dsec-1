@@ -1,8 +1,8 @@
 ## About the Repo
 An attempt to create a linked pipeline where multiple repos are involved. Following three repos are related.
-- skc-dperf-1
-- skc-dsec-1
-- skc-acc-1
+- [skc-dperf-1](https://github.com/sayankc/skc-dperf-1)
+- [skc-dsec-1](https://github.com/sayankc/skc-dsec-1)
+- [skc-acc-1](https://github.com/sayankc/skc-dacc-1)
 
 ## Tools 
 Google cloud SDK
